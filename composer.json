@@ -1,0 +1,11 @@
+{
+    "name": "turbo/tools",
+    "description": "",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Tools\\": "src/"
+        }
+    }
+}
