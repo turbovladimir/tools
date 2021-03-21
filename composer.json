@@ -3,6 +3,7 @@
     "description": "",
     "type": "project",
     "license": "proprietary",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Tools\\": "src/"
